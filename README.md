@@ -11,11 +11,10 @@ I'm a researcher with a strong focus on cryptology, computational statistics, an
 
 #### 🌱 I’m currently learning:
 - Advanced AI techniques, particularly in deep reinforcement learning
-- Cryptographic protocols and their theoretical foundations
 - Applications of AI in bioinformatics
 
 #### 💞️ I’m looking to collaborate on:
 - Cryptographic research and the development of novel encryption algorithms
 - Computational fluid dynamics models integrated with AI
-- AI applications in education and healthcare
+- AI applications in healthcare
 - Any interdisciplinary AI and mathematical research projects
