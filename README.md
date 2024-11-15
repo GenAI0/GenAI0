@@ -1,16 +1,16 @@
 ### 👋 Hi, I’m Jakob Anderssen
 
-I'm a researcher with a strong focus on cryptology, computational statistics, and artificial intelligence. I am currently involved in several exciting projects that intersect advanced mathematical concepts with real-world AI applications.
+I’m a researcher specializing in cryptology, computational statistics, and artificial intelligence. My work explores the intersection of advanced mathematical theory and real-world AI applications. I'm currently engaged in projects that push the boundaries of how these fields can drive innovation across industries.
 
-#### 👀 I’m interested in:
-- Cryptology and its applications in modern cryptographic systems
-- Computational statistics and its role in AI and machine learning
-- Deep reinforcement learning and complex decision-making systems
-- Coding theory, especially error correction through algebraic curves
-- Bioinformatics and its integration with AI for healthcare innovations
+#### 👀 My research interests include:
+- **Cryptology**: Developing novel cryptographic systems and security protocols for the digital age
+- **Computational Statistics**: Applying statistical techniques to enhance AI and machine learning models
+- **Deep Reinforcement Learning**: Advancing complex decision-making systems in dynamic environments
+- **Coding Theory**: Focusing on error correction through algebraic curves to improve data integrity
+- **Bioinformatics**: Leveraging AI to revolutionize healthcare and personalized medicine
 
 #### 💞️ I’m looking to collaborate on:
-- Cryptographic research and the development of novel encryption algorithms
-- Computational fluid dynamics models integrated with AI
-- AI applications in healthcare
-- Any interdisciplinary AI and mathematical research projects
+- Cutting-edge cryptographic research, including the creation of new encryption algorithms
+- AI-driven models in computational fluid dynamics
+- Transformative AI applications in healthcare and biotechnology
+- Interdisciplinary projects that blend AI, mathematics, and real-world problem-solving
