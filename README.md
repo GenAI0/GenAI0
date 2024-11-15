@@ -9,10 +9,6 @@ I'm a researcher with a strong focus on cryptology, computational statistics, an
 - Coding theory, especially error correction through algebraic curves
 - Bioinformatics and its integration with AI for healthcare innovations
 
-#### 🌱 I’m currently learning:
-- Advanced AI techniques, particularly in deep reinforcement learning
-- Applications of AI in bioinformatics
-
 #### 💞️ I’m looking to collaborate on:
 - Cryptographic research and the development of novel encryption algorithms
 - Computational fluid dynamics models integrated with AI
