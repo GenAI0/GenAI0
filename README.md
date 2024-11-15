@@ -17,46 +17,7 @@ I’m a researcher specializing in cryptology, computational statistics, and art
 
 #### 🥰 will work 
 
-1. Quantum-Resilient Cryptography
-2. AI-Driven Cryptanalysis
-
-
-3. Homomorphic Encryption in AI
-
-
-4. Zero-Knowledge Proofs for AI Model Transparency
-
-
-5. AI-Generated Cryptographic Protocols
-
-
-6. AI for Secure Identity Management
-
-
-7. Decentralized AI and Blockchain for Trust
-
-
-8. AI-Enhanced Secure Communications
-
-
-9. AI for Anomaly Detection in Cryptographic Systems
-
-
-10. AI-Driven Digital Watermarking for Content Protection
-
-
-11. Federated Learning with Secure Multi-Party Computation
-
-
-12. AI-Powered Blockchain Protocols for Secure Voting Systems
-
-
-13. AI-Assisted Cryptographic Key Management
-
-
-14. AI-Powered Cryptographic Autonomy in IoT
-
-15. AI and Cryptography for Secure AI Training
+AI-Generated Cryptographic Protocols for SignalApp
 
 
 
